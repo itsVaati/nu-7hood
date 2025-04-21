@@ -1,0 +1,15 @@
+"EyeRefract"
+{
+	$iris "models/kuma96/modern_warfare_remastered/characters/sas/textures/eyeball_green_d"
+	$corneatexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/eyeball_neal_shader_n"
+	$ambientoccltexture "engine/eyeball_r_ambient"
+	$envmap "engine/eye-reflection-cubemap-"
+	
+	$eyeballradius 0.680671
+	$corneabumpstrength 1
+	$glossiness .1
+	
+	$halflambert 1
+	$nodecal 1
+	$spheretexkillcombo 0
+}

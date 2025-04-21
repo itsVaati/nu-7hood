@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/benjamin_balaclava_d"
+	$halflambert 1
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_d"
+	$bumpmap "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_n"
+	
+	$phong 1
+	$phongexponenttexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_e"
+	$phongboost 0.25
+	$phongfresnelranges "[.1 .23 .945]"
+}
